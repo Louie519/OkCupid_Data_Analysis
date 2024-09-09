@@ -28,7 +28,7 @@ This project analyzes data from OkCupid profiles, focusing on demographic inform
 
 ## Introduction
 
-This project analyzes OkCupid profiles to uncover patterns in user preferences, behaviors, and the relationship between various profile attributes such as job type, pet preferences, and income. Additionally, the project aims to understand the sentiment of user essays and how lifestyle choices influence user sentiment and income levels.
+This project analyzes OkCupid profiles to uncover patterns in user preferences, behaviors, and the relationship between various profile attributes such as job type, pet preferences, and income. Additionally, the project aims to understand the sentiment of user essays and how lifestyle choices influence user sentiment and income levels. The [OkCupid dataset](https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles) was taken from kaggle.
 
 ## Data Source
 
